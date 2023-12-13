@@ -9,6 +9,7 @@ O código Arduino neste repositório controla três LEDs simulando um semáforo 
 ## Circuito
 
 ![circuito](https://raw.githubusercontent.com/DevSntosx71/semafaro-arduino/main/circuitoSemafaro.png)
+![circuito1](https://raw.githubusercontent.com/DSantosxTech/semafaro-arduino/main/31166322-c01a-4ad3-ae65-9c2a11096cd8.jpeg)
 
 Certifique-se de conectar os LEDs corretamente aos pinos definidos no código.
 
