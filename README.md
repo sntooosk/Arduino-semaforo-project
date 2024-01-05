@@ -37,3 +37,7 @@ Certifique-se de conectar os LEDs corretamente aos pinos definidos no código.
 - LED Verde: Pino 13
 
 Certifique-se de conectar os LEDs aos pinos corretos no Arduino.
+
+## Assista 👇
+
+[<img alt="Youtube" src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white"/>](https://youtube.com/shorts/8-nIhp7vw5Y?si=Inq4S-i6j-86-ig-)
