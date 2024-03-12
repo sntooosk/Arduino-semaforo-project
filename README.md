@@ -7,12 +7,22 @@ Este é um projeto simples de semáforo de trânsito implementado com Arduino no
 
 O código Arduino controla três LEDs simulando um semáforo de trânsito com as fases de verde, amarelo e vermelho. Cada fase tem um tempo de exibição configurado, e o ciclo se repete continuamente.
 
-## Circuito
+## •Tecnologias e Linguagens
+<div style="display: inline_block">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" height="50" width="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50" width="60"/>
+</div>
 
-<img src="https://raw.githubusercontent.com/DevSntosx71/semafaro-arduino/main/circuitoSemafaro.png" alt="circuito" >
-<img src="https://raw.githubusercontent.com/DSantosxTech/semafaro-arduino/main/31166322-c01a-4ad3-ae65-9c2a11096cd8.jpeg" alt="foto1" width="200">
+## • Referências e documentações
+| **[C++](https://en.cppreference.com/w/)** 
 
+## • Visão geral
 
+<br/>
+ 
+<img src="https://csg.tinkercad.com/things/a4aNGV3PkWy/t725.png?rev=1710097927834000000&s=&v=1&type=circuits"/>
+
+##
 
 Certifique-se de conectar os LEDs corretamente aos pinos definidos no código.
 
