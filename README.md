@@ -16,8 +16,6 @@ O código Arduino controla três LEDs simulando um semáforo de trânsito com as
 ## • Referências e documentações
 | **[C++](https://en.cppreference.com/w/)** 
 
-## • Visão geral
-
 <br/>
  
 <img src="https://csg.tinkercad.com/things/a4aNGV3PkWy/t725.png?rev=1710097927834000000&s=&v=1&type=circuits"/>
